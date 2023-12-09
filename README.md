@@ -1,2 +1,0 @@
-# wpsgs
-login page
